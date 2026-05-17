@@ -1,0 +1,16 @@
+# Maven
+target/
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Config templates (keep real config out of version control)
+# Use application-example.yml as template
